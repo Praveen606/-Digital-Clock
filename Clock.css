@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#clock
+{
+ color:#58eb34;
+  background:#d9eb34;
+  font-size:180px;
+  font-family:jokerman;
+  text-align:center;
+  padding:15px;
+  left: 50%;
+  down:50%;
+  
+  
+}
+body
+{
+  background:black;
+}
